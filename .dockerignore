@@ -1,0 +1,11 @@
+build
+node_modules
+
+.git
+.gitignore
+.gitattributes
+
+.editorconfig
+.prettierrc.yml
+
+Procfile
